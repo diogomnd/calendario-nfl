@@ -1,0 +1,32 @@
+Arizona/Cardinals/State Farm Stadium/NFC/Leste
+Atlanta/Falcons/Mercedes-Benz Stadium/NFC/Sul
+Baltimore/Ravens/M&T Bank Stadium/AFC/Norte
+Buffalo/Bills/Highmark Stadium/AFC/Leste
+Carolina/Panthers/Bank of America Stadium/NFC/Sul
+Chicago/Bears/Soldier Field/NFC/Norte
+Cincinnati/Bengals/Paycor Stadium/AFC/Norte
+Cleveland/Browns/Cleveland Browns Stadium/AFC/Norte
+Dallas/Cowboys/NFC/Leste
+Denver/Broncos/AFC/Oeste
+Detroit/Lions/NFC/Norte
+Green Bay/Packers/NFC/Norte
+Houston/Texans/AFC/Sul
+Indianapolis/Colts/AFC/Sul
+Jacksonville/Jaguars/AFC/Sul
+Kansas City/Chiefs/AFC/Oeste
+Las Vegas/Raiders/AFC/Oeste
+Los Angeles/Chargers/AFC/Oeste
+Los Angeles/Rams/NFC/Oeste
+Miami/Dolphins/AFC/Leste
+Minnesota/Vikings/NFC/Norte
+New England/Patriots/AFC/Leste
+New Orleans/Saints/NFC/Sul
+New York/Giants/NFC/Leste
+New York/Jets/AFC/Leste
+Philadelphia/Eagles/NFC/Leste
+Pittsburgh/Steelers/AFC/Norte
+San Francisco/49ers/NFC/Oeste
+Seattle/Seahawks/NFC/Oeste
+Tampa Bay/Buccaneers/NFC/Sul
+Tennessee/Titans/AFC/Sul
+Washington/Commanders/NFC/Leste

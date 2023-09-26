@@ -1,0 +1,307 @@
+Week 1
+Lions@Chiefs@Arrowhead Stadium@07-09-2023 21:20
+Bengals@Browns@Cleveland Browns Stadium@10-09-2023 14:00
+Texans@Ravens@M&T Bank Stadium@10-09-2023 14:00
+Buccaneers@Vikings@U.S. Bank Stadium@10-09-2023 14:00
+Panthers@Falcons@Mercedes-Benz Stadium@10-09-2023 14:00
+Cardinals@Commanders@FedExField@10-09-2023 14:00
+Jaguars@Colts@Lucas Oil Stadium@10-09-2023 14:00
+49ers@Steelers@Acrisure Stadium@10-09-2023 14:00
+Titans@Saints@Caesars Superdome@10-09-2023 14:00
+Raiders@Broncos@Mile High@10-09-2023 17:25
+Eagles@Patriots@Gillette Stadium@10-09-2023 17:25
+Rams@Seahawks@Lumen Field@10-09-2023 17:25
+Dolphins@Chargers@SoFi Stadium@10-09-2023 17:25
+Packers@Bears@Soldier Field@10-09-2023 17:25
+Cowboys@Giants@MetLife Stadium@10-09-2023 21:20
+Bills@Jets@MetLife Stadium@11-09-2023 21:15
+
+Week 2
+Vikings@Eagles@Lincoln Financial Field@14-09-2023 21:15
+Ravens@Bengals@Paycor Stadium@17-09-2023 14:00
+Seahawks@Lions@Ford Field@17-09-2023 14:00
+Colts@Texans@NRG Stadium@17-09-2023 14:00
+Bears@Buccaneers@Raymond James Stadium@17-09-2023 14:00
+Chiefs@Jaguars@EverBank Stadium@17-09-2023 14:00
+Packers@Falcons@Mercedes-Benz Stadium@17-09-2023 14:00
+Raiders@Bills@Highmark Stadium@17-09-2023 14:00
+Chargers@Titans@Nissan Stadium@17-09-2023 14:00
+49ers@Rams@SoFi Stadium@17-09-2023 17:05
+Giants@Cardinals@State Farm Stadium@17-09-2023 17:05
+Jets@Cowboys@AT&T Stadium@17-09-2023 17:25
+Commanders@Broncos@Mile High@17-09-2023 17:25
+Dolphins@Patriots@Gillette Stadium@17-09-2023 21:20
+Saints@Panthers@Bank of America Stadium@18-09-2023 20:15
+Browns@Steelers@Acrisure Stadium@18-09-2023 21:15
+
+Week 3
+Giants@49ers@Levi's Stadium@21-09-2023 21:15
+Falcons@Lions@Ford Field@24-09-2023 14:00
+Chargers@Vikings@U.S. Bank Stadium@24-09-2023 14:00
+Saints@Packers@Lambeau Field@24-09-2023 14:00
+Texans@Jaguars@EverBank Stadium@24-09-2023 14:00
+Broncos@Dolphins@Hard Rock Stadium@24-09-2023 14:00
+Titans@Browns@Cleveland Browns Stadium@24-09-2023 14:00
+Bills@Commanders@FedExField@24-09-2023 14:00
+Colts@Ravens@M&T Bank Stadium@24-09-2023 14:00
+Patriots@Jets@MetLife Stadium@24-09-2023 14:00
+Panthers@Seahawks@Lumen Field@24-09-2023 17:05
+Bears@Chiefs@Arrowhead Stadium@24-09-2023 17:25
+Cowboys@Cardinals@State Farm Stadium@24-09-2023 17:25
+Steelers@Raiders@Allegiant Stadium@24-09-2023 21:20
+Eagles@Buccaneers@Raymond James Stadium@25-09-2023 20:15
+Rams@Bengals@Paycor Stadium@25-09-2023 21:15
+
+Week 4
+Lions@Packers@Lambeau Field@28-09-2023 21:15
+Falcons@Jaguars@Wembley@01-10-2023 10:30
+Rams@Colts@Lucas Oil Stadium@01-10-2023 14:00
+Ravens@Browns@Cleveland Browns Stadium@01-10-2023 14:00
+Vikings@Panthers@Bank of America Stadium@01-10-2023 14:00
+Bengals@Titans@Nissan Stadium@01-10-2023 14:00
+Buccaneers@Saints@Caesars Superdome@01-10-2023 14:00
+Dolphins@Bills@Highmark Stadium@01-10-2023 14:00
+Broncos@Bears@Soldier Field@01-10-2023 14:00
+Commanders@Eagles@Lincoln Financial Field@01-10-2023 14:00
+Steelers@Texans@NRG Stadium@01-10-2023 14:00
+Raiders@Chargers@SoFi Stadium@01-10-2023 17:05
+Cardinals@49ers@Levi's Stadium@01-10-2023 17:25
+Patriots@Cowboys@AT&T Stadium@01-10-2023 17:25
+Chiefs@Jets@MetLife Stadium@01-10-2023 21:20
+Seahawks@Giants@MetLife Stadium@02-10-2023 21:15
+
+Week 5
+Bears@Commanders@FedExField@05-10-2023 21:15
+Jaguars@Bills@Tottenham Hotspur Stadium@08-10-2023 10:30
+Saints@Patriots@Gillette Stadium@08-10-2023 14:00
+Titans@Colts@Lucas Oil Stadium@08-10-2023 14:00
+Ravens@Steelers@Acrisure Stadium@08-10-2023 14:00
+Panthers@Lions@Ford Field@08-10-2023 14:00
+Texans@Falcons@Mercedes-Benz Stadium@08-10-2023 14:00
+Giants@Dolphins@Hard Rock Stadium@08-10-2023 14:00
+Bengals@Cardinals@State Farm Stadium@08-10-2023 17:05
+Eagles@Rams@SoFi Stadium@08-10-2023 17:05
+Jets@Broncos@Mile High@08-10-2023 17:25
+Chiefs@Vikings@U.S. Bank Stadium@08-10-2023 17:25
+Cowboys@49ers@Levi's Stadium@08-10-2023 21:20
+Packers@Raiders@Allegiant Stadium@09-10-2023 21:15
+
+Week 6
+Broncos@Chiefs@Arrowhead Stadium@12-10-2023 21:15
+Ravens@Titans@Tottenham Hotspur Stadium@15-10-2023 10:30
+Lions@Buccaneers@Raymond James Stadium@15-10-2023 14:00
+Panthers@Dolphins@Hard Rock Stadium@15-10-2023 14:00
+Saints@Texans@NRG Stadium@15-10-2023 14:00
+Commanders@Falcons@Mercedes-Benz Stadium@15-10-2023 14:00
+Colts@Jaguars@EverBank Stadium@15-10-2023 14:00
+Seahawks@Bengals@Paycor Stadium@15-10-2023 14:00
+Vikings@Bears@Soldier Field@15-10-2023 14:00
+49ers@Browns@Cleveland Browns Stadium@15-10-2023 14:00
+Patriots@Raiders@Allegiant Stadium@15-10-2023 17:05
+Cardinals@Rams@SoFi Stadium@15-10-2023 17:25
+Eagles@Jets@MetLife Stadium@15-10-2023 17:25
+Giants@Bills@Highmark Stadium@15-10-2023 21:20
+Cowboys@Chargers@SoFi Stadium@16-10-2023 21:15
+
+Week 7
+Jaguars@Saints@Caesars Superdome@19-10-2023 21:15
+Falcons@Buccaneers@Raymond James Stadium@22-10-2023 14:00
+Raiders@Bears@Soldier Field@22-10-2023 14:00
+Browns@Colts@Lucas Oil Stadium@22-10-2023 14:00
+Commanders@Giants@MetLife Stadium@22-10-2023 14:00
+Lions@Ravens@M&T Bank Stadium@22-10-2023 14:00
+Bills@Patriots@Gillette Stadium@22-10-2023 14:00
+Cardinals@Seahawks@Lumen Field@22-10-2023 17:05
+Steelers@Rams@SoFi Stadium@22-10-2023 17:05
+Chargers@Chiefs@Arrowhead Stadium@22-10-2023 17:25
+Packers@Broncos@Mile High@22-10-2023 17:25
+Dolphins@Eagles@Lincoln Financial Field@22-10-2023 21:20
+49ers@Vikings@U.S. Bank Stadium@23-10-2023 21:15
+
+Week 8
+Buccaneers@Bills@Highmark Stadium@26-10-2023 21:15
+Jets@Giants@MetLife Stadium@29-10-2023 14:00
+Jaguars@Steelers@Acrisure Stadium@29-10-2023 14:00
+Eagles@Commanders@FedExField@29-10-2023 14:00
+Rams@Cowboys@AT&T Stadium@29-10-2023 14:00
+Vikings@Packers@Lambeau Field@29-10-2023 14:00
+Falcons@Titans@Nissan Stadium@29-10-2023 14:00
+Patriots@Dolphins@Hard Rock Stadium@29-10-2023 14:00
+Saints@Colts@Lucas Oil Stadium@29-10-2023 14:00
+Texans@Panthers@Bank of America Stadium@29-10-2023 14:00
+Browns@Seahawks@Lumen Field@29-10-2023 17:05
+Bengals@49ers@Levi's Stadium@29-10-2023 17:25
+Chiefs@Broncos@Mile High@29-10-2023 17:25
+Ravens@Cardinals@State Farm Stadium@29-10-2023 17:25
+Bears@Chargers@SoFi Stadium@29-10-2023 21:20
+Raiders@Lions@Ford Field@30-10-2023 21:15
+
+Week 9
+Titans@Steelers@Acrisure Stadium@02-11-2023 21:15
+Dolphins@Chiefs@Frankfurt Stadium@05-11-2023 11:30
+Vikings@Falcons@Mercedes-Benz Stadium@05-11-2023 15:00
+Bears@Saints@Caesars Superdome@05-11-2023 15:00
+Rams@Packers@Lambeau Field@05-11-2023 15:00
+Commanders@Patriots@Gillette Stadium@05-11-2023 15:00
+Seahawks@Ravens@M&T Bank Stadium@05-11-2023 15:00
+Buccaneers@Texans@NRG Stadium@05-11-2023 15:00
+Cardinals@Browns@Cleveland Browns Stadium@05-11-2023 15:00
+Colts@Panthers@Bank of America Stadium@05-11-2023 18:05
+Giants@Raiders@Allegiant Stadium@05-11-2023 18:25
+Cowboys@Eagles@Lincoln Financial Field@05-11-2023 18:25
+Bills@Bengals@Paycor Stadium@05-11-2023 22:20
+Chargers@Jets@MetLife Stadium@06-11-2023 22:15
+
+Week 10
+Panthers@Bears@Soldier Field@09-11-2023 22:15
+Colts@Patriots@Frankfurt Stadium@12-11-2023 11:30
+Browns@Ravens@M&T Bank Stadium@12-11-2023 15:00
+Packers@Steelers@Acrisure Stadium@12-11-2023 15:00
+49ers@Jaguars@EverBank Stadium@12-11-2023 15:00
+Saints@Vikings@U.S. Bank Stadium@12-11-2023 15:00
+Texans@Bengals@Paycor Stadium@12-11-2023 15:00
+Titans@Buccaneers@Raymond James Stadium@12-11-2023 15:00
+Lions@Chargers@SoFi Stadium@12-11-2023 18:05
+Falcons@Cardinals@State Farm Stadium@12-11-2023 18:05
+Giants@Cowboys@AT&T Stadium@12-11-2023 18:25
+Commanders@Seahawks@Lumen Field@12-11-2023 18:25
+Jets@Raiders@Allegiant Stadium@12-11-2023 22:20
+Broncos@Bills@Highmark Stadium@13-11-2023 22:15
+
+Week 11
+Bengals@Ravens@M&T Bank Stadium@16-11-2023 22:15
+Steelers@Browns@Cleveland Browns Stadium@19-11-2023 15:00
+Raiders@Dolphins@Hard Rock Stadium@19-11-2023 15:00
+Bears@Lions@Ford Field@19-11-2023 15:00
+Titans@Jaguars@EverBank Stadium@19-11-2023 15:00
+Chargers@Packers@Lambeau Field@19-11-2023 15:00
+Cardinals@Texans@NRG Stadium@19-11-2023 15:00
+Cowboys@Panthers@Bank of America Stadium@19-11-2023 15:00
+Giants@Commanders@FedExField@19-11-2023 15:00
+Buccaneers@49ers@Levi's Stadium@19-11-2023 18:05
+Jets@Bills@Highmark Stadium@19-11-2023 18:25
+Seahawks@Rams@SoFi Stadium@19-11-2023 18:25
+Vikings@Broncos@Mile High@19-11-2023 22:20
+Eagles@Chiefs@Arrowhead Stadium@20-11-2023 22:15
+
+Week 12
+Packers@Lions@Ford Field@23-11-2023 14:30
+Commanders@Cowboys@AT&T Stadium@23-11-2023 18:30
+49ers@Seahawks@Lumen Field@23-11-2023 22:20
+Dolphins@Jets@MetLife Stadium@24-11-2023 17:00
+Buccaneers@Colts@Lucas Oil Stadium@26-11-2023 15:00
+Patriots@Giants@MetLife Stadium@26-11-2023 15:00
+Steelers@Bengals@Paycor Stadium@26-11-2023 15:00
+Panthers@Titans@Nissan Stadium@26-11-2023 15:00
+Jaguars@Texans@NRG Stadium@26-11-2023 15:00
+Saints@Falcons@Mercedes-Benz Stadium@26-11-2023 15:00
+Rams@Cardinals@State Farm Stadium@26-11-2023 18:05
+Browns@Broncos@Mile High@26-11-2023 18:05
+Bills@Eagles@Lincoln Financial Field@26-11-2023 18:25
+Chiefs@Raiders@Allegiant Stadium@26-11-2023 18:25
+Ravens@Chargers@SoFi Stadium@26-11-2023 22:20
+Bears@Vikings@U.S. Bank Stadium@27-11-2023 22:15
+
+Week 13
+Seahawks@Cowboys@AT&T Stadium@30-11-2023 22:15
+Colts@Titans@Nissan Stadium@03-12-2023 15:00
+Falcons@Jets@MetLife Stadium@03-12-2023 15:00
+Panthers@Buccaneers@Raymond James Stadium@03-12-2023 15:00
+Lions@Saints@Caesars Superdome@03-12-2023 15:00
+Chargers@Patriots@Gillette Stadium@03-12-2023 15:00
+Cardinals@Steelers@Acrisure Stadium@03-12-2023 15:00
+Dolphins@Commanders@FedExField@03-12-2023 15:00
+Broncos@Texans@NRG Stadium@03-12-2023 18:05
+49ers@Eagles@Lincoln Financial Field@03-12-2023 18:25
+Browns@Rams@SoFi Stadium@03-12-2023 18:25
+Chiefs@Packers@Lambeau Field@03-12-2023 22:20
+Bengals@Jaguars@EverBank Stadium@04-12-2023 22:15
+
+Week 14
+Patriots@Steelers@Acrisure Stadium@07-12-2023 22:15
+Texans@Jets@MetLife Stadium@10-12-2023 15:00
+Rams@Ravens@M&T Bank Stadium@10-12-2023 15:00
+Panthers@Saints@Caesars Superdome@10-12-2023 15:00
+Colts@Bengals@Paycor Stadium@10-12-2023 15:00
+Buccaneers@Falcons@Mercedes-Benz Stadium@10-12-2023 15:00
+Jaguars@Browns@Cleveland Browns Stadium@10-12-2023 15:00
+Lions@Bears@Soldier Field@10-12-2023 15:00
+Seahawks@49ers@Levi's Stadium@10-12-2023 18:05
+Vikings@Raiders@Allegiant Stadium@10-12-2023 18:05
+Broncos@Chargers@SoFi Stadium@10-12-2023 18:25
+Bills@Chiefs@Arrowhead Stadium@10-12-2023 18:25
+Eagles@Cowboys@AT&T Stadium@10-12-2023 22:20
+Packers@Giants@MetLife Stadium@11-12-2023 22:15
+Titans@Dolphins@Hard Rock Stadium@11-12-2023 22:15
+
+Week 15
+Chargers@Raiders@Allegiant Stadium@14-12-2023 22:15
+Bears@Browns@Cleveland Browns Stadium@17-12-2023 15:00
+Falcons@Panthers@Bank of America Stadium@17-12-2023 15:00
+Steelers@Colts@Lucas Oil Stadium@17-12-2023 15:00
+Broncos@Lions@Ford Field@17-12-2023 15:00
+Vikings@Bengals@Paycor Stadium@17-12-2023 15:00
+Giants@Saints@Caesars Superdome@17-12-2023 15:00
+Buccaneers@Packers@Lambeau Field@17-12-2023 15:00
+Jets@Dolphins@Hard Rock Stadium@17-12-2023 15:00
+Texans@Titans@Nissan Stadium@17-12-2023 15:00
+49ers@Cardinals@State Farm Stadium@17-12-2023 18:05
+Commanders@Rams@SoFi Stadium@17-12-2023 18:05
+Cowboys@Bills@Highmark Stadium@17-12-2023 18:25
+Eagles@Seahawks@Lumen Field@17-12-2023 18:25
+Ravens@Jaguars@EverBank Stadium@17-12-2023 22:20
+Chiefs@Patriots@Gillette Stadium@18-12-2023 22:15
+
+Week 16
+Saints@Rams@SoFi Stadium@21-12-2023 22:15
+Bengals@Steelers@Acrisure Stadium@23-12-2023 18:30
+Bills@Chargers@SoFi Stadium@23-12-2023 22:00
+Commanders@Jets@MetLife Stadium@24-12-2023 15:00
+Lions@Vikings@U.S. Bank Stadium@24-12-2023 15:00
+Browns@Texans@NRG Stadium@24-12-2023 15:00
+Packers@Panthers@Bank of America Stadium@24-12-2023 15:00
+Seahawks@Titans@Nissan Stadium@24-12-2023 15:00
+Colts@Falcons@Mercedes-Benz Stadium@24-12-2023 15:00
+Jaguars@Buccaneers@Raymond James Stadium@24-12-2023 18:05
+Cowboys@Dolphins@Hard Rock Stadium@24-12-2023 18:25
+Cardinals@Bears@Soldier Field@24-12-2023 18:25
+Patriots@Broncos@Mile High@24-12-2023 22:15
+Raiders@Chiefs@Arrowhead Stadium@25-12-2023 15:00
+Giants@Eagles@Lincoln Financial Field@25-12-2023 18:30
+Ravens@49ers@Levi's Stadium@25-12-2023 22:15
+
+Week 17
+Jets@Browns@Cleveland Browns Stadium@28-12-2023 22:15
+Lions@Cowboys@AT&T Stadium@30-12-2023 22:15
+Titans@Texans@NRG Stadium@31-12-2023 15:00
+Falcons@Bears@Soldier Field@31-12-2023 15:00
+Dolphins@Ravens@M&T Bank Stadium@31-12-2023 15:00
+Saints@Buccaneers@Raymond James Stadium@31-12-2023 15:00
+Patriots@Bills@Highmark Stadium@31-12-2023 15:00
+Cardinals@Eagles@Lincoln Financial Field@31-12-2023 15:00
+Panthers@Jaguars@EverBank Stadium@31-12-2023 15:00
+Raiders@Colts@Lucas Oil Stadium@31-12-2023 15:00
+Rams@Giants@MetLife Stadium@31-12-2023 15:00
+49ers@Commanders@FedExField@31-12-2023 15:00
+Steelers@Seahawks@Lumen Field@31-12-2023 18:05
+Bengals@Chiefs@Arrowhead Stadium@31-12-2023 18:25
+Chargers@Broncos@Mile High@31-12-2023 18:25
+Packers@Vikings@U.S. Bank Stadium@31-12-2023 22:20
+
+Week 18
+Bears@Packers@Lambeau Field@07-01-2024 23:59
+Cowboys@Commanders@FedExField@07-01-2024 23:59
+Broncos@Raiders@Allegiant Stadium@07-01-2024 23:59
+Jaguars@Titans@Nissan Stadium@07-01-2024 23:59
+Texans@Colts@Lucas Oil Stadium@07-01-2024 23:59
+Bills@Dolphins@Hard Rock Stadium@07-01-2024 23:59
+Eagles@Giants@MetLife Stadium@07-01-2024 23:59
+Seahawks@Cardinals@State Farm Stadium@07-01-2024 23:59
+Vikings@Lions@Ford Field@07-01-2024 23:59
+Falcons@Saints@Caesars Superdome@07-01-2024 23:59
+Jets@Patriots@Gillette Stadium@07-01-2024 23:59
+Steelers@Ravens@M&T Bank Stadium@07-01-2024 23:59
+Rams@49ers@Levi's Stadium@07-01-2024 23:59
+Chiefs@Chargers@SoFi Stadium@07-01-2024 23:59
+Buccaneers@Panthers@Bank of America Stadium@07-01-2024 23:59
+Browns@Bengals@Paycor Stadium@07-01-2024 23:59
