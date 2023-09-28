@@ -3,19 +3,17 @@ package br.ufpb.dcx.calendarionfl;
 import java.io.Serializable;
 import java.util.*;
 
-public class Franquia implements Serializable
-{
+public class Franquia implements Serializable {
 
     private String nome;
     private String cidade;
     private Conferencia conferencia;
     private Divisao divisao;
-    private List<Franquia> adversarios;
+    private List<Jogo> adversarios;
 
     public Franquia(String nome, String cidade,
                     Conferencia conferencia, Divisao divisao,
-                    List<Franquia> adversarios)
-    {
+                    List<Jogo> adversarios) {
         this.nome = nome;
         this.cidade = cidade;
         this.conferencia = conferencia;
@@ -31,7 +29,7 @@ public class Franquia implements Serializable
         return nome;
     }
 
-    public List<Franquia> getAdversarios() {
+    public List<Jogo> getAdversarios() {
         return adversarios;
     }
 
@@ -51,7 +49,7 @@ public class Franquia implements Serializable
         this.divisao = divisao;
     }
 
-    public void setAdversarios(List<Franquia> adversarios) {
+    public void setAdversarios(List<Jogo> adversarios) {
         this.adversarios = adversarios;
     }
 
@@ -61,8 +59,7 @@ public class Franquia implements Serializable
     }
 
     @Override
-    public boolean equals(Object o)
-    {
+    public boolean equals(Object o) {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         Franquia franquia = (Franquia) o;

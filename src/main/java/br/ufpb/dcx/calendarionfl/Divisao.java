@@ -1,11 +1,9 @@
 package br.ufpb.dcx.calendarionfl;
 
-public enum Divisao
-{
+public enum Divisao {
     NORTE, SUL, LESTE, OESTE;
 
-    public static Divisao parseDivisao(String divisao)
-    {
+    public static Divisao parseDivisao(String divisao) {
         if (divisao.equals("Norte"))
             return NORTE;
         if (divisao.equals("Sul"))
@@ -16,8 +14,7 @@ public enum Divisao
     }
 
     @Override
-    public String toString()
-    {
+    public String toString() {
         if (this.equals(NORTE))
             return "Norte";
         else if (this.equals(SUL))
