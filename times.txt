@@ -1,11 +1,11 @@
-Arizona/Cardinals/State Farm Stadium/NFC/Leste
-Atlanta/Falcons/Mercedes-Benz Stadium/NFC/Sul
-Baltimore/Ravens/M&T Bank Stadium/AFC/Norte
-Buffalo/Bills/Highmark Stadium/AFC/Leste
-Carolina/Panthers/Bank of America Stadium/NFC/Sul
-Chicago/Bears/Soldier Field/NFC/Norte
-Cincinnati/Bengals/Paycor Stadium/AFC/Norte
-Cleveland/Browns/Cleveland Browns Stadium/AFC/Norte
+Arizona/Cardinals/NFC/Leste
+Atlanta/Falcons/NFC/Sul
+Baltimore/Ravens/AFC/Norte
+Buffalo/Bills/AFC/Leste
+Carolina/Panthers/NFC/Sul
+Chicago/Bears/NFC/Norte
+Cincinnati/Bengals/AFC/Norte
+Cleveland/Browns/AFC/Norte
 Dallas/Cowboys/NFC/Leste
 Denver/Broncos/AFC/Oeste
 Detroit/Lions/NFC/Norte

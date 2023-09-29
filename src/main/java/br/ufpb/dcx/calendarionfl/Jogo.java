@@ -30,4 +30,5 @@ public class Jogo implements Serializable {
         return nomeTimeVisitante + " @ " + nomeTimeDaCasa + " - "
                 + localizacao + " - " + dataFormatada;
     }
+
 }

@@ -3,7 +3,6 @@ package br.ufpb.dcx.calendarionfl;
 import java.io.*;
 import java.util.*;
 
-
 public class GravadorDeDados {
     private static final String ARQUIVO_TIMES = "times.dat";
     private static final String ARQUIVO_JOGOS = "jogos.dat";
@@ -42,4 +41,5 @@ public class GravadorDeDados {
             throw new IOException("Erro ao salvar os times no arquivo " + ARQUIVO_JOGOS);
         }
     }
+
 }

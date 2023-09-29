@@ -13,4 +13,5 @@ public enum Conferencia {
         if (this.equals(AFC)) return "AFC";
         return "NFC";
     }
+
 }

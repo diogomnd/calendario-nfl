@@ -29,6 +29,18 @@ public class Franquia implements Serializable {
         return nome;
     }
 
+    public String getCidade() {
+        return cidade;
+    }
+
+    public Conferencia getConferencia() {
+        return conferencia;
+    }
+
+    public Divisao getDivisao() {
+        return divisao;
+    }
+
     public List<Jogo> getAdversarios() {
         return adversarios;
     }
@@ -70,4 +82,5 @@ public class Franquia implements Serializable {
     public int hashCode() {
         return Objects.hash(nome);
     }
+
 }
